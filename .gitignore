@@ -1,0 +1,9 @@
+﻿__pycache__/
+venv/
+*.onnx
+*.pt
+known_faces/
+snapshots/
+face_log.db
+attendance_*.csv
+screenshot_*.png
